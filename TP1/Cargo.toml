@@ -1,0 +1,14 @@
+[package]
+name = "tp1_banque"
+version = "0.1.0"
+edition = "2025"
+authors = ["Julian Trifunovic"]
+description = "Système de gestion de comptes bancaires - TP1 Rust"
+
+[[bin]]
+name = "main"
+path = "main.rs"
+
+[dependencies]
+# Aucune dépendance externe nécessaire pour ce TP
+# Utilisation uniquement de la bibliothèque standard Rust 
