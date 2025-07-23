@@ -1,5 +1,4 @@
-// TP1 - Système de gestion de comptes bancaires - VERSION CORRIGÉE
-// Niveau débutant avec commentaires détaillés
+// TP1 - Système de gestion de comptes bancaires
 
 use std::io::{self, Write}; // Bibliothèque pour les entrées/sorties (lecture clavier)
 
